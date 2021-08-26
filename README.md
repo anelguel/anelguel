@@ -1,6 +1,6 @@
 - 👋 Hola, I'm Anel
 - 👀 I’m interested in backend programming and Geographic Information Systems (GIS)
-- 🌱 I’m currently learning C#/.NET, Go, SQL
+- 🌱 I’m currently learning backend: C#/.NET, Go, SQL as well as frontend: ghost.io
 - 💞️ I’m looking to collaborate on a project dealing with maps 🌎 and looking for a designer to create a logo for a Visual Studio color theme extension I'm building.
 - 📫 How to reach me ... anelguel@gmail.com
 
