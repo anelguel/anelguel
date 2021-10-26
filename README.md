@@ -1,6 +1,6 @@
 ### What's up fam, I'm Anel
 I'm a software engineer and artist currently learning:
-* C#/.NET, SQL/SSMS 👩🏽‍💻
+* C#/.NET, SQL/MS SQL 👩🏽‍💻
 * ghost.io and its frontend tech stack 👻
 * Clip Studio Paint 👩🏽‍🎨🎨
 * I'm also a GIS (Geographic Information Systems) specialist and love using [CARTO](https://CARTO.com) 🌍
