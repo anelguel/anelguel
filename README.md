@@ -1,8 +1,9 @@
-- 👋 Hola, I'm Anel
-- 👀 I’m interested in backend programming and Geographic Information Systems (GIS)
-- 🌱 I’m currently learning backend: C#/.NET, Go, SQL as well as frontend: ghost.io
-- 💞️ I’m looking to collaborate on a project dealing with maps 🌎 and looking for a designer to create a logo for a Visual Studio color theme extension I'm building.
-- 📫 How to reach me ... anelguel@gmail.com
+### What's up fam, I'm Anel
+I'm a software engineer and artist currently learning:
+* C#/.NET, SQL/SSMS 👩🏽‍💻
+* ghost.io and its frontend tech stack 👻
+* Clip Studio Paint 👩🏽‍🎨🎨
+* I'm also a GIS (Geographic Information Systems) specialist and love using [CARTO](https://CARTO.com) 🌍
 
 <!---
 anelguel/anelguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
