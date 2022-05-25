@@ -1,8 +1,7 @@
 ### Hi, I'm Anel
-I'm a software engineer and an aspiring artist currently learning:
+I'm a software engineer currently learning:
 * C#/.NET, SQL/MS SQL 👩🏽‍💻
 * [ghost](https://ghost.org/) and its frontend tech stack 👻
-* Clip Studio Paint 👩🏽‍🎨🎨
 * I'm also a GIS (Geographic Information Systems) specialist and love using [CARTO](https://CARTO.com) 🌍
 
 #### 📢 Are you a Visual Studio Code user? Make sure to download and review my theme editor, [Miss Dracula](https://bit.ly/missdracula) 🧛🏽‍♀️🦇
