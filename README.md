@@ -1,10 +1,9 @@
 ### Hi, I'm Anel
-I'm a C#/.NET software engineer currently learning and transitioning into the web3/blockchain world.
+I'm a C#/.NET software engineer and usually working with or also digging into:
 
-I'm also usually working with or digging into:
 * SQL/MS SQL Server
-* [ghost](https://ghost.org/) and its frontend tech stack 👻
 * Anything GIS! I'm a GIS (Geographic Information Systems) specialist and love using [CARTO](https://CARTO.com) 🌍
+* I'm also interested in decentralization/web 3/blockchain technology.
 
 #### 📢 Are you a Visual Studio Code user? Make sure to download and review my theme editor, [Miss Dracula](https://bit.ly/missdracula) 🧛🏽‍♀️🦇
 
